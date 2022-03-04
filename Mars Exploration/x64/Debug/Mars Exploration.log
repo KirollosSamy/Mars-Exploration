@@ -1,0 +1,5 @@
+﻿  MarsStation.cpp
+E:\Material\Second term\Data structure\Project\SEM_team_14_project\Mars Exploration\MarsStation\MarsStation.cpp(343,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Material\Second term\Data structure\Project\SEM_team_14_project\Mars Exploration\MarsStation\MarsStation.cpp(345,13): warning C4804: '<': unsafe use of type 'bool' in operation
+E:\Material\Second term\Data structure\Project\SEM_team_14_project\Mars Exploration\MarsStation\MarsStation.cpp(479,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Mars Exploration.vcxproj -> E:\Material\Second term\Data structure\Project\SEM_team_14_project\x64\Debug\Mars Exploration.exe
